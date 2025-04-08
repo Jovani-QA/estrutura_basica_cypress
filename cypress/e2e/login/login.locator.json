@@ -1,0 +1,26 @@
+    {
+        "campo":{
+            "userName":{
+                "tag": "[data-test='username']"
+            },
+            "password":{
+                "tag": "[data-test='password']"
+            } 
+        },
+        "botao":{
+            "tag":"[data-test='login-button']",
+            "text":"Entrar"
+        },
+        "modal":{
+            "tag":"[data-test='error']",
+            "text":"Epic sadface: Sorry, this user has been locked out."
+        },
+        "toglle":{
+            "tag":"button",
+            "text":"Fechar"
+        },
+        "mensagem":{
+            "tag":"div",
+            "text":"Acesso Negado"
+        }
+    }
